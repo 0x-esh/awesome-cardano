@@ -9,7 +9,7 @@
 
 - List items should be added to the end of list
 - Descriptions should be clear, concise, and non-promotional
-- Descriptions should follow the link, on the same line with <br/> line break
+- Item row should follow this mask `|**TICKER**|<div>SHORT_DESC</div><details><summary>Pool Id</summary><code>POOL_ID</code></details>|[URL](URL)|`
 
 Please contribute links to examples/books you have used or are familiar with. This will help ensure high-quality entries.
 
