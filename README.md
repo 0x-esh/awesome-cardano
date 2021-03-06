@@ -1,4 +1,4 @@
-# Awesome Cardano Pools
+# Awesome Cardano Pools & Services
 
 A curated list of awesome Cardano (ADA) pools. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
