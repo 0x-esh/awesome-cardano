@@ -14,6 +14,6 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 
 ### List
 
-|Ticker|Pool Id|Homepage|Short Description|
-|---|---|---|---|
-|RAY|1c8cd022e993a8366be641c17cb6d9c5d8944e00bfce3189d8b1515a|[rraayy.com](rraayy.com)|Advanced Ecosystem for Cardano Blockchain Platform|
+|Ticker|Pool Id|Homepage|
+|---|---|---|
+|RAY|`1c8cd022e993a8366be641c17cb6d9c5d8944e00bfce3189d8b1515a` <br/> Advanced Ecosystem for Cardano Blockchain Platform|[rraayy.com](rraayy.com)|
