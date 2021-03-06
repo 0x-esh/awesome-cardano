@@ -1,6 +1,6 @@
-# Awesome Cardano Pools & Services
+# Awesome Cardano Pools / Services / Wallets
 
-A curated list of awesome Cardano (ADA) pools. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
+A curated list of awesome Cardano (ADA) pools, wallets and services. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Contributing
 
