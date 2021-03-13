@@ -10,7 +10,7 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 
 |Name|Homepage|Features|
 |---|---|---|
-|Ray Wallet|[wallet.rraayy.com](https://wallet.rraayy.com)|Send/Receive Funds, Stake, DeFi Swap, NFT Marketplace, Crowdfunding, Mint Tokens
+|Ray Wallet|[raywallet.io](https://raywallet.io)|Send/Receive Funds, Stake, DeFi Swap, NFT Marketplace, Crowdfunding, Mint Tokens
 
 ## Ada Services
 
